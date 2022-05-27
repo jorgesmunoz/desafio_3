@@ -1,0 +1,22 @@
+[
+  {
+    "title": "manzanas",
+    "price": 3.5,
+    "id": 1
+  },
+  {
+    "title": "bananas",
+    "price": 11,
+    "id": 2
+  },
+  {
+    "title": "peras",
+    "price": 15,
+    "id": 3
+  },
+  {
+    "title": "tomates",
+    "price": 13,
+    "id": 4
+  }
+]
